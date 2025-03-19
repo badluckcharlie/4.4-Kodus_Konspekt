@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "4.4 Kodus_Konspekt", "4.4 Kodus_Konspekt\4.4 Kodus_Konspekt.pyproj", "{C277D4DA-4BC6-4275-AFCA-BBE177273241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C277D4DA-4BC6-4275-AFCA-BBE177273241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C277D4DA-4BC6-4275-AFCA-BBE177273241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CF38AC7-2CDC-4CD6-B503-A6BD18B575A8}
+	EndGlobalSection
+EndGlobal
