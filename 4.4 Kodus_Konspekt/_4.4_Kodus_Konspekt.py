@@ -77,3 +77,22 @@ print(min(numbers))  # 2 (наименьшее число)
 # Поиск сколько раз встречается в списке
 letters = ["a", "b", "a", "c", "a", "b"]
 print(letters.count("a"))  # 3 (буква "a" встречается трижды)
+
+elementid = [
+[1, 2, 3],
+[4, 5, 6],
+[7, 8, 9]
+]
+element = elemtid[0][2]
+print(element)
+
+loend_hulgad = [
+    {1, 2, 3},
+    {4, 5, 6},
+    {7, 8, 9}
+]
+otsitav_element = 3
+for hulk in loend_hulgad:
+    if otsitav_element in hulk:
+        print("Leidimse elemendi", otsitav_element, "hulgast:", hulk)
+
